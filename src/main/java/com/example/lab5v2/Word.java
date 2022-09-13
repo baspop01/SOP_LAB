@@ -11,7 +11,7 @@ public class Word implements Serializable {
     public Word(){
         this.goodWords.add("happy");
         this.goodWords.add("enjoy");
-        this.goodWords.add("like");
+        this.goodWords.add("life");
         this.badWords.add("fuck");
         this.badWords.add("olo");
     }
